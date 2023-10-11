@@ -1,17 +1,15 @@
 """
 7321 - NANDHA COLLEGE OF TECHNOLOGY
 
-ADS_Phase1-CreditCard_Fraud_Detection
+ADS_Phase2-CreditCard_Fraud_Detection
 
-********************************************
-PROJECT BY                                 *
-                                           *
-DHARUN KUMAR T  #Teamlead                  *                              
-BALAMURUGAN                                *
-KAVIYARASU                                 *
-ARUN KUMAR                                 *
-********************************************
+PROJECT BY
 
+DHARUN KUMAR T  #Teamlead
+ARUN KUMAR                          
+KAVIYARASU
+BALAMURUGAN
+                 
 """
 
 
